@@ -1,7 +1,11 @@
 # Penguin Analysis bbg wys later typeshi
 
-A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
+# Sebble pebble is a the goat (although he's a silly goat) 
+<img width="489" height="498" alt="we-have-no-sappers-dog-accepting-fate" src="https://github.com/user-attachments/assets/27d0af0e-1ffc-4164-8530-f7c20786f05f" />
+[let-me-know.mp3](https://github.com/user-attachments/files/25865848/let-me-know.mp3)
 
+
+=======
 <img src="https://images.nightcafe.studio/jobs/Bsz8f34YoQ7kWtefvUyZ/Bsz8f34YoQ7kWtefvUyZ--1--45ze5.jpg?tr=w-1600,c-at_max" width=50%>
 
 
@@ -74,5 +78,6 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 ## Authors
 
 [TODO: Add your name here! This is a great first commit.]
+
 
 
