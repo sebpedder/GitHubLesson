@@ -1,8 +1,8 @@
-# Penguin Analysis
+# Penguin Analysis bbg wys tsmd later typeshi
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+<img src="https://images.nightcafe.studio/jobs/Bsz8f34YoQ7kWtefvUyZ/Bsz8f34YoQ7kWtefvUyZ--1--45ze5.jpg?tr=w-1600,c-at_max" width=50%>
 
 
 ## About the Data
